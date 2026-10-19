@@ -3,7 +3,7 @@
 Tick a topic (`[x]`) once a post about it has been drafted.
 
 - [ ] What happens if your AFSS is late in NSW?
-- [ ] AFSS vs supplementary fire safety statement: what's the difference?
+- [x] AFSS vs supplementary fire safety statement: what's the difference?
 - [ ] What is a Fire Safety Schedule and where do you find yours?
 - [ ] Level 1 vs Level 2 fire safety measures explained
 - [ ] How to prepare your strata building for its annual fire safety inspection
