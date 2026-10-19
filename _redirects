@@ -8,6 +8,5 @@
 /copy-of-fire-equipment-repairs-and-pr-1  /smoke-alarm-testing/  301
 /services-4  /after-hours-fire-service/  301
 /get-in-touch  /contact/  301
-/blog  /  301
-/post/*  /  301
+/post/*  /blog/  301
 /afss  /afss-inspections/  301

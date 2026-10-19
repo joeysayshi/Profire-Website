@@ -92,7 +92,7 @@ function enter(){
 }
 
 /* ---------------- page transitions between real pages (Barba-style leave → load → enter) ---------------- */
-const LABELS={"/": "Home", "/about/": "About", "/team/": "The team", "/certifications/": "Certifications", "/services/": "Services", "/afss-inspections/": "AFSS inspections", "/routine-fire-inspections/": "Routine inspections", "/fire-equipment-repairs/": "Repairs", "/smoke-alarm-testing/": "Smoke alarms", "/after-hours-fire-service/": "24/7 after hours", "/contact/": "Get in touch"};
+const LABELS={"/": "Home", "/about/": "About", "/team/": "The team", "/certifications/": "Certifications", "/services/": "Services", "/afss-inspections/": "AFSS inspections", "/routine-fire-inspections/": "Routine inspections", "/fire-equipment-repairs/": "Repairs", "/smoke-alarm-testing/": "Smoke alarms", "/after-hours-fire-service/": "24/7 after hours", "/contact/": "Get in touch", "/blog/": "Blog"};
 const norm=u=>{const x=new URL(u,location.href);let p=x.pathname.replace(/index\.html$/,'');if(!p.endsWith('/'))p+='/';return p};
 let leaving=false;
 document.addEventListener('click',e=>{
