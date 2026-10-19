@@ -2,16 +2,6 @@
   "trailingSlash": true,
   "redirects": [
     {
-      "source": "/about",
-      "destination": "/about/",
-      "permanent": true
-    },
-    {
-      "source": "/about/",
-      "destination": "/about/",
-      "permanent": true
-    },
-    {
       "source": "/team-3",
       "destination": "/team/",
       "permanent": true
@@ -19,26 +9,6 @@
     {
       "source": "/team-3/",
       "destination": "/team/",
-      "permanent": true
-    },
-    {
-      "source": "/certifications",
-      "destination": "/certifications/",
-      "permanent": true
-    },
-    {
-      "source": "/certifications/",
-      "destination": "/certifications/",
-      "permanent": true
-    },
-    {
-      "source": "/services",
-      "destination": "/services/",
-      "permanent": true
-    },
-    {
-      "source": "/services/",
-      "destination": "/services/",
       "permanent": true
     },
     {
