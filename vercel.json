@@ -7,7 +7,17 @@
       "permanent": true
     },
     {
+      "source": "/about/",
+      "destination": "/about/",
+      "permanent": true
+    },
+    {
       "source": "/team-3",
+      "destination": "/team/",
+      "permanent": true
+    },
+    {
+      "source": "/team-3/",
       "destination": "/team/",
       "permanent": true
     },
@@ -17,7 +27,17 @@
       "permanent": true
     },
     {
+      "source": "/certifications/",
+      "destination": "/certifications/",
+      "permanent": true
+    },
+    {
       "source": "/services",
+      "destination": "/services/",
+      "permanent": true
+    },
+    {
+      "source": "/services/",
       "destination": "/services/",
       "permanent": true
     },
@@ -27,7 +47,17 @@
       "permanent": true
     },
     {
+      "source": "/general-8/",
+      "destination": "/afss-inspections/",
+      "permanent": true
+    },
+    {
       "source": "/copy-of-the-afss-process",
+      "destination": "/routine-fire-inspections/",
+      "permanent": true
+    },
+    {
+      "source": "/copy-of-the-afss-process/",
       "destination": "/routine-fire-inspections/",
       "permanent": true
     },
@@ -37,7 +67,17 @@
       "permanent": true
     },
     {
+      "source": "/copy-of-routine-inspections/",
+      "destination": "/fire-equipment-repairs/",
+      "permanent": true
+    },
+    {
       "source": "/copy-of-fire-equipment-repairs-and-pr-1",
+      "destination": "/smoke-alarm-testing/",
+      "permanent": true
+    },
+    {
+      "source": "/copy-of-fire-equipment-repairs-and-pr-1/",
       "destination": "/smoke-alarm-testing/",
       "permanent": true
     },
@@ -47,12 +87,27 @@
       "permanent": true
     },
     {
+      "source": "/services-4/",
+      "destination": "/after-hours-fire-service/",
+      "permanent": true
+    },
+    {
       "source": "/get-in-touch",
       "destination": "/contact/",
       "permanent": true
     },
     {
+      "source": "/get-in-touch/",
+      "destination": "/contact/",
+      "permanent": true
+    },
+    {
       "source": "/blog",
+      "destination": "/",
+      "permanent": true
+    },
+    {
+      "source": "/blog/",
       "destination": "/",
       "permanent": true
     },
@@ -63,6 +118,11 @@
     },
     {
       "source": "/afss",
+      "destination": "/afss-inspections/",
+      "permanent": true
+    },
+    {
+      "source": "/afss/",
       "destination": "/afss-inspections/",
       "permanent": true
     }
