@@ -5,7 +5,7 @@ Tick a topic (`[x]`) once a post about it has been drafted.
 - [ ] What happens if your AFSS is late in NSW?
 - [ ] AFSS vs supplementary fire safety statement: what's the difference?
 - [ ] What is a Fire Safety Schedule and where do you find yours?
-- [ ] Level 1 vs Level 2 fire safety measures explained
+- [x] Level 1 vs Level 2 fire safety measures explained
 - [ ] How to prepare your strata building for its annual fire safety inspection
 - [ ] AS1851 explained: what routine fire safety maintenance actually involves
 - [ ] Smoke alarm rules for NSW strata apartments
