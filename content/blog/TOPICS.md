@@ -9,7 +9,7 @@ Tick a topic (`[x]`) once a post about it has been drafted.
 - [ ] How to prepare your strata building for its annual fire safety inspection
 - [ ] AS1851 explained: what routine fire safety maintenance actually involves
 - [x] Smoke alarm rules for NSW strata apartments
-- [ ] Do smoke alarms really need replacing every 10 years?
+- [x] Do smoke alarms really need replacing every 10 years?
 - [ ] Why your fire panel is beeping (and when to call a technician)
 - [ ] Fire doors: the most common defects found in inspections
 - [ ] Exit signs and emergency lighting: testing requirements
