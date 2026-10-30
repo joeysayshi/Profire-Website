@@ -12,7 +12,7 @@ Tick a topic (`[x]`) once a post about it has been drafted.
 - [ ] Do smoke alarms really need replacing every 10 years?
 - [ ] Why your fire panel is beeping (and when to call a technician)
 - [ ] Fire doors: the most common defects found in inspections
-- [ ] Exit signs and emergency lighting: testing requirements
+- [x] Exit signs and emergency lighting: testing requirements
 - [ ] Fire hydrant and sprinkler pump testing: monthly, annual and 5-yearly
 - [ ] Passive fire protection: penetrations, collars and why they matter
 - [ ] Fire extinguisher types and which ones your building needs
