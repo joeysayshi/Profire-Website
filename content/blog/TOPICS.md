@@ -20,5 +20,5 @@ Tick a topic (`[x]`) once a post about it has been drafted.
 - [ ] Who is responsible for fire safety in a strata building?
 - [x] What to do when Council issues a fire safety order
 - [ ] Fire safety checklist for cafés, shops and small businesses
-- [ ] Fire safety in aged care and healthcare buildings
+- [x] Fire safety in aged care and healthcare buildings
 - [ ] Building occupant warning systems (BOWS) explained
