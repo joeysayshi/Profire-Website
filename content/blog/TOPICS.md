@@ -22,3 +22,4 @@ Tick a topic (`[x]`) once a post about it has been drafted.
 - [ ] Fire safety checklist for cafés, shops and small businesses
 - [ ] Fire safety in aged care and healthcare buildings
 - [ ] Building occupant warning systems (BOWS) explained
+- [x] Fire dampers and smoke control systems in NSW buildings
