@@ -22,4 +22,5 @@ Tick a topic (`[x]`) once a post about it has been drafted.
 - [x] Fire safety checklist for cafés, shops and small businesses
 - [x] Fire safety in aged care and healthcare buildings
 - [x] Building occupant warning systems (BOWS) explained
+- [x] Emergency plans for NSW workplaces (AS 3745, training and evacuation drills)
 - [x] False fire alarm charges in NSW and how to avoid them
