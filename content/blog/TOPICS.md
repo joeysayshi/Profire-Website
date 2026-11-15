@@ -21,5 +21,5 @@ Tick a topic (`[x]`) once a post about it has been drafted.
 - [x] What to do when Council issues a fire safety order
 - [x] Fire safety checklist for cafés, shops and small businesses
 - [ ] Fire safety in aged care and healthcare buildings
-- [ ] Building occupant warning systems (BOWS) explained
+- [x] Building occupant warning systems (BOWS) explained
 - [x] False fire alarm charges in NSW and how to avoid them
