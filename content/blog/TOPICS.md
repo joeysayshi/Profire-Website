@@ -16,7 +16,7 @@ Tick a topic (`[x]`) once a post about it has been drafted.
 - [x] Fire hydrant and sprinkler pump testing: monthly, annual and 5-yearly
 - [x] Passive fire protection: penetrations, collars and why they matter
 - [x] Fire extinguisher types and which ones your building needs
-- [ ] What a photographic defect report shows and how to read it
+- [x] What a photographic defect report shows and how to read it
 - [x] Who is responsible for fire safety in a strata building?
 - [x] What to do when Council issues a fire safety order
 - [x] Fire safety checklist for cafés, shops and small businesses
