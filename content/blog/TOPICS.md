@@ -22,6 +22,7 @@ Tick a topic (`[x]`) once a post about it has been drafted.
 - [x] Fire safety checklist for cafés, shops and small businesses
 - [x] Fire safety in aged care and healthcare buildings
 - [x] Building occupant warning systems (BOWS) explained
+- [x] Holiday season fire safety for strata buildings and shops
 - [x] Fire dampers and smoke control systems in NSW buildings
 - [x] Fire hose reels: who needs them and how to maintain them
 - [x] Fire safety rules for short-term rentals (Airbnb) in NSW apartments
