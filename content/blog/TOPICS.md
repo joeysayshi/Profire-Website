@@ -30,3 +30,4 @@ Tick a topic (`[x]`) once a post about it has been drafted.
 - [x] E-bike and lithium-ion battery fires in apartment buildings
 - [x] Emergency plans for NSW workplaces (AS 3745, training and evacuation drills)
 - [x] False fire alarm charges in NSW and how to avoid them
+- [x] EV charging in strata car parks: fire safety and the NSW right to charge
